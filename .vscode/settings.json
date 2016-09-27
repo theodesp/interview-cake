@@ -1,0 +1,9 @@
+
+    {
+        // Place your settings in this file to overwrite default and user settings.
+        "editor.fontSize": 18,
+        "python.pythonPath": "/home/theofanis/Projects/py-venv/bin/python3",
+        "python.unitTest.pyTestEnabled": true,
+        "python.unitTest.unittestEnabled": false,
+        "python.unitTest.nosetestsEnabled": false
+    }
