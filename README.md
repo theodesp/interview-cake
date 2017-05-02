@@ -35,10 +35,18 @@ in python. All challenges are bundles with tests.
 - [ ] Recur Tree Permutations.
 - [ ] Top Scores.
 - [ ] Which appears twice.
+- [ ] World Cloud Data.
+- [ ] Single Riffle Shuffle
 - [ ] In place shuffle.
 - [ ] Url Shortener.
 - [ ] Merge Sorted Arrays.
 - [ ] Find duplicate files.
+- [ ] Find, repeat Space Edition.
+- [ ] Find, repeat Space Edition Beast Mode.
+- [ ] 2 Egg problem.
+- [ ] Simulate 5-sided dice.
+- [ ] Simulate 7-sided dice.
+- [ ] Simulate 7-sided dice.
 
                   
                  
